@@ -4,7 +4,6 @@
         <title>ncyu-study</title>
     </head>
     <body>
-        <h1>嘉大資工讀書會~</h1>
-        <p>開發中</p>
+        <h1>檔案6</h1>
     </body>
 </html>
