@@ -3,6 +3,9 @@ tags: 讀書會
 ---
 # Git版本控制工具
 
+[![hackmd-github-sync-badge](https://hackmd.io/LlMjUDu8TNqapT5cJY7UmA/badge)](https://hackmd.io/LlMjUDu8TNqapT5cJY7UmA)
+
+
 * 常用動作
 >git init
 
